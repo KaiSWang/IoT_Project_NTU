@@ -1,5 +1,6 @@
 # IoT Project NTU
 # Collaborator Alejandro Ly Liu, Wang, Kai-Sheng
+# Technical support: Microsoft
 
 This is an IoT project made for the class Introduction to Internet of Things at National Taiwan University.
 We make use of Arduino, Bluetooth, Azure DB, Power BI and Azure ML.
